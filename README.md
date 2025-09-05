@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | Problem Solver | ML Enthusiast**  
 
 - 🔭 Currently exploring **Express.js, ML models, and full-stack architectures**  
-- 🧑‍💻 Solved **450+ DSA problems** on LeetCode & GFG  
+- 🧑‍💻 Solved **500+ DSA problems** on LeetCode & GFG  
 - 🌱 Building skills in **Deep Learning, NLP, and scalable system design**  
 - 📫 Reach me: [Portfolio](https://portfolio-react-blush-nu.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/prateek-bambal-1843a528a/) | [LeetCode](https://leetcode.com/u/Prateek_Bambal/) | prateek1046p@gmail.com  
 
