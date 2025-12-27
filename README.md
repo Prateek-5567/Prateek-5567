@@ -2,17 +2,17 @@
 
 🚀 **Full-Stack Developer | Problem Solver | ML Enthusiast**  
 
-- 🔭 Currently exploring **Express.js, ML models, and full-stack architectures**  
-- 🧑‍💻 Solved **500+ DSA problems** on LeetCode & GFG  
-- 🌱 Building skills in **Deep Learning, NLP, and scalable system design**  
+- 🔭 Currently exploring ** Spring and Spring Boot , ML models, and full-stack architectures**  
+- 🧑‍💻 Solved **450+ DSA problems** on LeetCode & GFG  
+- 🌱 Building skills in **Spring and Spring boot , Hibernate , Docker , and scalable system design**  
 - 📫 Reach me: [Portfolio](https://portfolio-react-blush-nu.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/prateek-bambal-1843a528a/) | [LeetCode](https://leetcode.com/u/Prateek_Bambal/) | prateek1046p@gmail.com  
 
 ---
 
 ## 🔹 Skills  
 
-**Languages**: C++, Python, JavaScript  
-**Web Development**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, SQL  
+**Languages**: C++, java, Python, JavaScript  
+**Web Development**: React.js, Tailwind CSS, Node.js, Express.js and Also Spring + SpringBoot , MongoDB, SQL  
 **Core CS**: DSA, OOPS, Operating Systems, DBMS (MySQL, Object-Oriented Databases)  
 **Machine Learning**: Various ML models, DeepLearning, NLP , Vectorisation.
 **Tools**: Git, VS Code, Postman, Jupyter Notebook  
